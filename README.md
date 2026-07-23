@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
