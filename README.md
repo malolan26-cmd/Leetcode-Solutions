@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
