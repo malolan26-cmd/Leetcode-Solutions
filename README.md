@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
