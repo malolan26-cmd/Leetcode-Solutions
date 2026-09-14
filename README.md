@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
