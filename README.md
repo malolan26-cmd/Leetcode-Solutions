@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -80,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
