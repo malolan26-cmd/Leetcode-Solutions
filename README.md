@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
