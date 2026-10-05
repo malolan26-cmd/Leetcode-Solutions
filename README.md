@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0704-binary-search](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
