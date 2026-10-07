@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1084-sales-analysis-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
