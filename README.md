@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/malolan26-cmd/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 ## Divide and Conquer
 |  |
 | ------- |
